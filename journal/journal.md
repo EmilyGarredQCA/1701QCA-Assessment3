@@ -211,6 +211,8 @@ With everything working I began to create the final electronic components for th
 The first step was to learn how to solder. A Youtube video by ChrisFix (see link above under "Other Research") was very helpful and gave me lots of tips as to the best way to approach this task.
 I began by soldering one led to short lengths of wire and testing with a battery - It worked 
 
+![Image](solder1.JPG)
+
 Next I needed to calculate how much wire I would need for the different mushrooms.  With two different places having mushrooms, I needed varying lengths of wire to get back to the microbit.
 I cut my lengths, allowing for the stem of the mushroom, the distance through the log and some extra at the end to enable me to join the various wires together, before attaching to the microbit.
 
