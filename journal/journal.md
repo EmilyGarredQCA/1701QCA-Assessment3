@@ -31,7 +31,7 @@ This project is related to mine because it uses the input of a PIR Motion Detect
 
 
 ### Related project 2 ###   
-Magical Mushrom Lights
+Magical Mushroom Lights
 
 https://www.youtube.com/watch?v=D5LjGFkpApw
 
@@ -127,7 +127,11 @@ https://www.kitronik.co.uk/blog/experiment-4-using-a-transistor-to-drive-a-motor
 I used the coding in this experiment as inspiration to give the fireflies a fluctuating glow.  This allowed me to control the LEDs making them illuminate gratually and pulse in a realistic manner. 
 
 
+#### How to Solder Wires Together (Best tips and tricks) ####
 
+https://www.youtube.com/watch?v=Zu3TYBs65FM
+
+This was a very useful video in the basics of soldering.  I learnt how to strip the wires, different ways to join them, the best way to solder by putting the heat from the bottom and the solder from the top.  The video also suggested using a damp sponge to clean the tip of the soldering iron and using heat shrink to protect the soldered wires from coming in contact with each other which would cause issues. It also recommended using clips to help hold the wires in place while solering, to stop them moving and protect fingers from the hot iron.
 
 
 
@@ -158,6 +162,13 @@ To create this project, I would begin by testing the various elements on the bre
 
 ![Image](SLFlowChart.jpg)
 
+
+
+
+
+
+
+
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
@@ -166,6 +177,74 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this code. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+
+
+
+
+
+
+
+
+For this project I began with the programing for the NeoPixel LED strip.  After reasearching how to control it and what could be done to get different effects I started experimenting with getting different patterns and colours that best replicate running water.
+
+https://youtu.be/3tmFgTovflc
+
+This video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
+
+![Image](BasicLEDCode.jpg)
+
+This is the code used to get this effect by changing the colour of every second LED gave the moving effect.  I found it was possible to change the number of LEDs that moved or to even put a gap in between them to produce various outcomes.
+
+The next step I took was to connect the motion sensor to the lights and adjust the coding to get the fluctuating light effect for the fireflies.
+
+https://www.youtube.com/watch?v=BiCQOx9Rjhs
+
+![Image](SLWorkingCode.JPG)
+
+The above code and video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with continued absence of motion.
+
+After successfully completing a basic mock-up of the final concept I decided to start on the fabrication of the environment.  The image shows the basic shape for the rock which will support the LED strip.  I made this using papier mache over a small cardboard box, and then have covered it in a thin layer of air drying clay, which I then painted to look like a rock.
+
+![Image](Rock.jpg)
+
+With everything working I began to create the final electronic components for the mushrooms.
+The first step was to learn how to solder. A Youtube video by ChrisFix (see link above under "Other Research") was very helpful and gave me lots of tips as to the best way to approach this task.
+I began by soldering one led to short lengths of wire and testing with a battery - It worked 
+
+Next I needed to calculate how much wire I would need for the different mushrooms.  With two different places having mushrooms, I needed varying lengths of wire to get back to the microbit.
+I cut my lengths, allowing for the stem of the mushroom, the distance through the log and some extra at the end to enable me to join the various wires together, before attaching to the microbit.
+
+With the lengths cut, I went ahead and soldered all the wires to the LEDs 
+
+![Image](Rock.jpg)
+
+I then used heat shrink to cover the join on one leg to prevet the wires touching and causing electrical issues.
+
+![Image](Rock.jpg)
+
+With all the stems soldered, I needed to work out how I would attach the mushroom tops, and constructed little wire loops, which I attached to the other leg of the led with some more heat shrink.
+
+![Image](Rock.jpg)
+
+Before I could put the wiring in place on the logs, I needed to create the mushroom stems around their wires.
+For this I used silicon as in the video Making Magical Mushrooms (see link Related Project 2 above).
+
+As this was a messy process, I made the mushroom tops at the same time.
+
+For the tops, I squeezed out a bit of silicon and mixed in a small amount of water colour paint, to tint the silicon, to the appropriate colour.  I then placed a blob onto some cling wrap, folding it over to cover the silicon, which was in the center.  Next I shaped the silicon into a flat circle (usually 3 - 6 cm in diameter) and then using a domed mould (wooden mushrooms) shaped the circle over the mould, leaving it to dry for a few hours.  For the stems, I used the same colour mixing process, but this time when the silicon was placed on the cling wrap, I added one of the prewired leds, then folded over the wrap, with the wire in the fold then spread the silicon along the wires to create the stem. After making the first stem, I decided to paint the wires white, as the black and red wiring could be seen through the silicon. The last element I created using this process was the fungus.  To make these, I used the same process as the mushroom tops, but this time only creating a semi-circle in various sizes.  This was then moulded around the same mushroom moulds, but removed before they were completely dry, I then turned the curved shape inside out and threaded the fungus onto wooden skewer to set completely.  To hold this shape I used an extra bit of silicon in the top to create the smooth top on the mushroom.  I used a small ball of cling wrap to fill the place where the led would go on the biggest one.  
+
+![Image](Rock.jpg)
+
+WIth the mushrooms made I checked how the mushroom tops would sit over the supports I had created for them.  With the LED lit, it caused a focused spot of light on the top of the dome.  I remembered in the magic mushroom video that they cut the top off the LED, to help difuse the light.  I tried this with a spare led, cutting the domed end off with scissors.  The LED still worked, and when tested under the dome, I found the focused spot was gone.  I then went ahead and cut the tops off all the LEDs.
+
+![Image](Rock.jpg)
+
+Finally with all the stems made, I was able to attach the stems to the logs, where they would be mounted for my scene.  I worked out the thickness of the stem and chose a drill bit of similar size, before drilling holes in the logs, at the desired positions.  With the holes done, I threaded the wires through the log (adding masking tape to each pair to avoid getting the wires mixed up).  I also inserted cylinders from toilet rolls into the hollow log, to keep the wires neat and make space through the centre.  
+
+![Image](Rock.jpg)
+
+Next it was time to join the
+
 
 ## Final code ##
 
