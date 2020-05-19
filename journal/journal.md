@@ -247,18 +247,30 @@ Finally with all the stems made, I was able to attach the stems to the logs, whe
 
 Next it was time to join the wiring together.  For the final project, I wanted to group some mushrooms from the log with some from the tree, with the different groups coming on at different times.
 
-I took sets of 2 or 3 wires from each log and soldered them together as sets of either positve or negative wires.  I then attached each of these grouped wires to one wire, which enabled me to join the elements from the two logs together. (ie. From 10 LED mushrooms, I had only 2 positive and two negative wires to attach to the microbit. Using the circuitry from the fan experiment (Inventors kit experiment 4, under "other research" above) I added a transistor to the negative wires, with a resistor on the middle leg.  From the resistor I added a small length of wire cut from a female jumper wire, which enabled me to plug this into the pins on the microbit breakout board. The other leg was attached to a short length of wire which was soldered to the ground position on the edge connector.  
+I took sets of 2 or 3 wires from each log and soldered them together as sets of either positve or negative wires.  
+
+![Image](Rock.jpg)
+
+I then attached each of these grouped wires to one wire, which enabled me to join the elements from the two logs together. (ie. From 10 LED mushrooms, I had only 2 positive and two negative wires to attach to the microbit).
+
+![Image](joinmush.JPG)
+
+Using the circuitry from the fan experiment (Inventors kit experiment 4, under "other research" above) I added a transistor to the negative wires, with a resistor on the middle leg. 
+
+![Image](transistorthing.JPG)
+
+From the resistor I added a small length of wire cut from a female jumper wire, which enabled me to plug this into the pins on the microbit breakout board. The other leg was attached to a short length of wire which was soldered to the ground position on the edge connector.  
 The positive wires were attached directly to the edge connetor on the 3V section of the edge connector.  
 
 !!!!!drawing!!!!!
 
-![Image](Rock.jpg)
-![Image](Rock.jpg)
-![Image](Rock.jpg)
+![Image](mushtransistorthing.JPG)
+
+![Image](mushtransistorbit.JPG)
 
 Finally I tested all the mushrooms joined in place.
 
-![Image](Rock.jpg)
+![Image](testmush.JPG)
 
 
 
