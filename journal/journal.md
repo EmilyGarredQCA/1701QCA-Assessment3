@@ -247,9 +247,7 @@ Finally with all the stems made, I was able to attach the stems to the logs, whe
 
 Next it was time to join the wiring together.  For the final project, I wanted to group some mushrooms from the log with some from the tree, with the different groups coming on at different times.
 
-I took sets of 2 or 3 wires from each log and soldered them together as sets of either positve or negative wires.  
-
-![Image](Rock.jpg)
+I took sets of 2 or 3 wires from each log and soldered them together as sets of either positve or negative wires. 
 
 I then attached each of these grouped wires to one wire, which enabled me to join the elements from the two logs together. (ie. From 10 LED mushrooms, I had only 2 positive and two negative wires to attach to the microbit).
 
@@ -263,8 +261,6 @@ From the resistor I added a small length of wire cut from a female jumper wire, 
 The positive wires were attached directly to the edge connetor on the 3V section of the edge connector.  
 
 !!!!!drawing!!!!!
-
-![Image](mushtransistorthing.JPG)
 
 ![Image](mushtransistorbit.JPG)
 
