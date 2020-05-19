@@ -218,15 +218,15 @@ I cut my lengths, allowing for the stem of the mushroom, the distance through th
 
 With the lengths cut, I went ahead and soldered all the wires to the LEDs 
 
-![Image](Rock.jpg)
+![Image](wirestem1.JPG)
 
 I then used heat shrink to cover the join on one leg to prevet the wires touching and causing electrical issues.
 
-![Image](Rock.jpg)
+![Image](Heatshrink1.JPG)
 
 With all the stems soldered, I needed to work out how I would attach the mushroom tops, and constructed little wire loops, which I attached to the other leg of the led with some more heat shrink.
 
-![Image](Rock.jpg)
+![Image](heatmushsuport.JPG)
 
 Before I could put the wiring in place on the logs, I needed to create the mushroom stems around their wires.
 For this I used silicon as in the video Making Magical Mushrooms (see link Related Project 2 above).
@@ -235,15 +235,15 @@ As this was a messy process, I made the mushroom tops at the same time.
 
 For the tops, I squeezed out a bit of silicon and mixed in a small amount of water colour paint, to tint the silicon, to the appropriate colour.  I then placed a blob onto some cling wrap, folding it over to cover the silicon, which was in the center.  Next I shaped the silicon into a flat circle (usually 3 - 6 cm in diameter) and then using a domed mould (wooden mushrooms) shaped the circle over the mould, leaving it to dry for a few hours.  For the stems, I used the same colour mixing process, but this time when the silicon was placed on the cling wrap, I added one of the prewired leds, then folded over the wrap, with the wire in the fold then spread the silicon along the wires to create the stem. After making the first stem, I decided to paint the wires white, as the black and red wiring could be seen through the silicon. The last element I created using this process was the fungus.  To make these, I used the same process as the mushroom tops, but this time only creating a semi-circle in various sizes.  This was then moulded around the same mushroom moulds, but removed before they were completely dry, I then turned the curved shape inside out and threaded the fungus onto wooden skewer to set completely.  To hold this shape I used an extra bit of silicon in the top to create the smooth top on the mushroom.  I used a small ball of cling wrap to fill the place where the led would go on the biggest one.  
 
-![Image](Rock.jpg)
+![Image](mushymake.JPG)
 
 WIth the mushrooms made I checked how the mushroom tops would sit over the supports I had created for them.  With the LED lit, it caused a focused spot of light on the top of the dome.  I remembered in the magic mushroom video that they cut the top off the LED, to help difuse the light.  I tried this with a spare led, cutting the domed end off with scissors.  The LED still worked, and when tested under the dome, I found the focused spot was gone.  I then went ahead and cut the tops off all the LEDs.
 
-![Image](Rock.jpg)
+![Image](choplit.JPG)
 
 Finally with all the stems made, I was able to attach the stems to the logs, where they would be mounted for my scene.  I worked out the thickness of the stem and chose a drill bit of similar size, before drilling holes in the logs, at the desired positions.  With the holes done, I threaded the wires through the log (adding masking tape to each pair to avoid getting the wires mixed up).  I also inserted cylinders from toilet rolls into the hollow log, to keep the wires neat and make space through the centre.  
 
-![Image](Rock.jpg)
+![Image](mushy.JPG)
 
 Next it was time to join the wiring together.  For the final project, I wanted to group some mushrooms from the log with some from the tree, with the different groups coming on at different times.
 
