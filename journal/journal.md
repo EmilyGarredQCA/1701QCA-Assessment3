@@ -10,7 +10,7 @@
 ### *Insert name of related project here* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+
 
 <!--- Fill out name and link to related project in the code below. --->
 [Name of related project](https://[URL of related project])
@@ -85,6 +85,52 @@ This project is related to mine because when a person stands still it allows for
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+
+#### Micro:bit Lesson 3. NeoPixels with Micro:bit ####
+
+https://learn.adafruit.com/micro-bit-lesson-3-neopixels-with-micro-bit/software
+
+This website gave me a good understanding of the basics of programing a NeoPixel with a Microbit to get the desired effect to make the LED strip appear as flowing water.  I was able to experiment with different colour, brightness and movement of the lights.
+
+#### LED Strip Effects ####
+
+https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
+
+This website gave me lots of examples of what could be done with the NeoPixel strip and what effect could make the best running water however the programing was made for Arduino and couldn't be used with the Microbit.  The videos also showed how to give a more diffused and glowing effect by placing a thin material like tissue just above the lights. 
+
+
+#### Connecting a PIR motion sensor to a Micro:bit ####
+
+https://www.teachwithict.com/pir.html
+
+This basic tutorial on how to connect the Microbit to the PIR motion detector gave me a simple code however had very unreliable results.  I found that even when the sensor was totaly covered the indicator light on the Microbit continued to switch between the two inputs.
+
+
+#### How PIR modules work and using them to control LED strings. ####
+
+https://www.youtube.com/watch?v=evZM2_RTvTU
+
+This indepth video tutorial gave me extensive information on how the PIR motion detector works, how to adjust different components to get better results and how to make a basic circuit using LEDs.  This helped solve the problems experienced from the previous website.
+
+
+#### Microbit + Spotify ####
+
+https://www.hackster.io/samelhusseini/microbit-spotify-windows-8a8551
+
+I had an idea to also connect the Microbit to play forest sound effects along with the other components to add another layer of realism to the environment.  This tutorial gave detailed instructions and seemed effective however it would have needed two Microbits, plus another program that would allow the Microbit to communicate with the computer and Spotify.  This extra expense coupled with the unfamiliar program and coding required on my computer prompted me to reconsider this idea.
+
+
+#### Inventors Kit Experiment 4 ####
+
+https://www.kitronik.co.uk/blog/experiment-4-using-a-transistor-to-drive-a-motor/
+
+I used the coding in this experiment as inspiration to give the fireflies a fluctuating glow.  This allowed me to control the LEDs making them illuminate gratually and pulse in a realistic manner. 
+
+
+
+
+
+
 
 ## Conceptual development ##
 
