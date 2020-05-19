@@ -19,6 +19,70 @@
 
 <!--- Repeat code above for a total of 6 related projects --->
 
+
+### Related project 1 ###   
+Night Light Assisstant
+
+  https://create.arduino.cc/projecthub/gabriele_fugazzi/night-light-assistant-0d9bf0?ref=tag&ref_id=motion%20sensor&offset=4
+  
+![Image](NightLight.jpeg)
+
+This project is related to mine because it uses the input of a PIR Motion Detector to turn on lights to assist at night.  This function is the same principal to my original concepts however in my final project this was reversed with the lights coming on when there is no movement.
+
+
+### Related project 2 ###   
+Magical Mushrom Lights
+
+https://www.youtube.com/watch?v=D5LjGFkpApw
+
+![Image](MagicMushrooms.JPG)
+
+This project is related to mine because it uses LEDs to make fake mushrooms glow.  I like the way he created the realistic looking mushrooms and hope to use a similar process to make the mushrooms for my project.  However in my environment the mushrooms will be controlled by the input of the motion detector.
+
+
+### Related project 3 ###   
+Jelly Swarm
+
+https://www.tangibleinteraction.com/artworks/jelly-swarm
+
+![Image](JellySwarm.jpg)
+
+This project is related to mine because it takes the idea of real world creatures and brings them to a state where we can learn about them by showing how the interaction of people can effect them in the wild.  This same idea is demonstrated in my project as it takes the real life reactions of wild life to an unknown presence.  The paper jellyfish were lit by LEDs which change colour and react with eachother when undisturbed but react differently when effected by humans via a sensor.
+
+
+### Related project 4 ###   
+People Create Space and Time, at the Confluence of their Spacetime New Space and Time is Born
+
+https://www.teamlab.art/w/people_create_space/
+
+![Image](PeopleCreateSpace.jpg)
+
+This project is related to mine because it uses the same principal of stillness.  In this light display when a person remains still the projection creates a very slow ripple effect which radiates from them across the room creating a peacfull 
+experience.  My project also used this continued stillness to have an effect on the environment with the project only coming to life when there is no motion.
+
+### Related project 5 ###   
+Play With Fire Over WIFI
+
+https://create.arduino.cc/projecthub/electropeak/play-with-fire-over-wi-fi-esp8266-neopixels-android-app-26c4ad?ref=tag&ref_id=led%20strip&offset=5
+
+![Image](Fire.JPG)
+
+This project is related to mine because the effect demonstrated to create the fire uses a NeoPixel LED strip.  I got the idea of including a running water effect from this project as when the light turns blue it reminded me of water. 
+
+
+### Related project 6 ###   
+Flutter of Butterflies Beyond Borders, Ephemeral Life Born from People
+
+https://www.teamlab.art/w/butterflies_ephemerallife_people/
+
+![Image](FlutterOfButterflies.jpg)
+
+This project is related to mine because when a person stands still it allows for projections of butterflies to grow on them before flying away and navigating the space on their own.  This takes the same idea with the stillness and adds life to it albeit in a non-material form and replicates my idea of stillness welcoming life.
+
+
+
+
+
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
 
