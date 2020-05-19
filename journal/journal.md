@@ -222,11 +222,11 @@ With the lengths cut, I went ahead and soldered all the wires to the LEDs
 
 I then used heat shrink to cover the join on one leg to prevet the wires touching and causing electrical issues.
 
-![Image](Heatshrink1.JPG)
+![Image](HeatShrink1.JPG)
 
 With all the stems soldered, I needed to work out how I would attach the mushroom tops, and constructed little wire loops, which I attached to the other leg of the led with some more heat shrink.
 
-![Image](heatmushsuport.JPG)
+![Image](heatmushsupport.JPG)
 
 Before I could put the wiring in place on the logs, I needed to create the mushroom stems around their wires.
 For this I used silicon as in the video Making Magical Mushrooms (see link Related Project 2 above).
