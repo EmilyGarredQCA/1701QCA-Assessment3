@@ -183,29 +183,37 @@ There will likely by a dozen or so images of the project under construction. The
 
 
 
-
+### Initial Coding ###
 
 For this project I began with the programing for the NeoPixel LED strip.  After reasearching how to control it and what could be done to get different effects I started experimenting with getting different patterns and colours that best replicate running water.
 
+The below video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
+
 https://youtu.be/3tmFgTovflc
-
-This video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
-
-![Image](BasicLEDCode.jpg)
 
 This is the code used to get this effect by changing the colour of every second LED gave the moving effect.  I found it was possible to change the number of LEDs that moved or to even put a gap in between them to produce various outcomes.
 
+![Image](BasicLEDCode.jpg)
+
 The next step I took was to connect the motion sensor to the lights and adjust the coding to get the fluctuating light effect for the fireflies.
+
+The below code and video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with continued absence of motion.
 
 https://www.youtube.com/watch?v=BiCQOx9Rjhs
 
 ![Image](SLWorkingCode.JPG)
 
-The above code and video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with continued absence of motion.
 
-After successfully completing a basic mock-up of the final concept I decided to start on the fabrication of the environment.  The image shows the basic shape for the rock which will support the LED strip.  I made this using papier mache over a small cardboard box, and then have covered it in a thin layer of air drying clay, which I then painted to look like a rock.
+
+### Environment Fabrication ###
+
+After successfully completing a basic mock-up of the final concept I decided to start on the fabrication of the environment.  The image shows the basic shape for the rock which will support the LED strip.  I made this using papier mache over a small cardboard box (see image below), and then have covered it in a thin layer of air drying clay, which I then painted to look like a rock.  I also selected some wood from a fire heap that were suitable to use as supports for the mushroom and firefly lights.
 
 ![Image](Rock.jpg)
+
+### Mushroom Fabrication ###
+
+#### Initial Wiring ####
 
 With everything working I began to create the final electronic components for the mushrooms.
 The first step was to learn how to solder. A Youtube video by ChrisFix (see link above under "Other Research") was very helpful and gave me lots of tips as to the best way to approach this task.
@@ -228,12 +236,14 @@ With all the stems soldered, I needed to work out how I would attach the mushroo
 
 ![Image](heatmushsupport.JPG)
 
+#### Creating Mushrooms ####
+
 Before I could put the wiring in place on the logs, I needed to create the mushroom stems around their wires.
-For this I used silicon as in the video Making Magical Mushrooms (see link Related Project 2 above).
+For this I used silicon as in the video "Making Magical Mushrooms" (see link Related Project 2 above).
 
 As this was a messy process, I made the mushroom tops at the same time.
 
-For the tops, I squeezed out a bit of silicon and mixed in a small amount of water colour paint, to tint the silicon, to the appropriate colour.  I then placed a blob onto some cling wrap, folding it over to cover the silicon, which was in the center.  Next I shaped the silicon into a flat circle (usually 3 - 6 cm in diameter) and then using a domed mould (wooden mushrooms) shaped the circle over the mould, leaving it to dry for a few hours.  For the stems, I used the same colour mixing process, but this time when the silicon was placed on the cling wrap, I added one of the prewired leds, then folded over the wrap, with the wire in the fold then spread the silicon along the wires to create the stem. After making the first stem, I decided to paint the wires white, as the black and red wiring could be seen through the silicon. The last element I created using this process was the fungus.  To make these, I used the same process as the mushroom tops, but this time only creating a semi-circle in various sizes.  This was then moulded around the same mushroom moulds, but removed before they were completely dry, I then turned the curved shape inside out and threaded the fungus onto wooden skewer to set completely.  To hold this shape I used an extra bit of silicon in the top to create the smooth top on the mushroom.  I used a small ball of cling wrap to fill the place where the led would go on the biggest one.  
+For the tops, I squeezed out a bit of silicon and mixed in a small amount of water colour paint, to tint the silicon to the appropriate colour.  I then placed a blob onto some cling wrap, folding it over to cover the silicon, which was in the center.  Next I shaped the silicon into a flat circle (usually 3 - 6 cm in diameter) and then using a domed mould (wooden mushrooms) shaped the circle over the mould, leaving it to dry for a few hours.  For the stems, I used the same colour mixing process, but this time when the silicon was placed on the cling wrap, I added one of the prewired leds, then folded over the wrap, with the wire in the fold then spread the silicon along the wires to create the stem. After making the first stem, I decided to paint the wires white, as the black and red wiring could be seen through the silicon. The last element I created using this process was the fungus.  To make these, I used the same process as the mushroom tops, but this time only creating a semi-circle in various sizes.  This was then moulded around the same mushroom moulds, but removed before they were completely dry, I then turned the curved shape inside out and threaded the fungus onto wooden skewer to set completely.  To hold this shape I used an extra bit of silicon in the top to create the smooth top on the mushroom.  I used a small ball of cling wrap to fill the place where the led would go on the biggest one.  
 
 ![Image](mushymake.JPG)
 
@@ -244,6 +254,8 @@ WIth the mushrooms made I checked how the mushroom tops would sit over the suppo
 Finally with all the stems made, I was able to attach the stems to the logs, where they would be mounted for my scene.  I worked out the thickness of the stem and chose a drill bit of similar size, before drilling holes in the logs, at the desired positions.  With the holes done, I threaded the wires through the log (adding masking tape to each pair to avoid getting the wires mixed up).  I also inserted cylinders from toilet rolls into the hollow log, to keep the wires neat and make space through the centre.  
 
 ![Image](mushy.JPG)
+
+#### Connecting Circuits ####
 
 Next it was time to join the wiring together.  For the final project, I wanted to group some mushrooms from the log with some from the tree, with the different groups coming on at different times.
 
@@ -258,7 +270,7 @@ Using the circuitry from the fan experiment (Inventors kit experiment 4, under "
 ![Image](transistorthing.JPG)
 
 From the resistor I added a small length of wire cut from a female jumper wire, which enabled me to plug this into the pins on the microbit breakout board. The other leg was attached to a short length of wire which was soldered to the ground position on the edge connector.  
-The positive wires were attached directly to the edge connetor on the 3V section of the edge connector.  
+The positive wires were attached directly to the edge connetor on the 3V section of the bearkout board.  
 
 !!!!!drawing!!!!!
 
@@ -268,9 +280,19 @@ Finally I tested all the mushrooms joined in place.
 
 ![Image](testmush.JPG)
 
+### Insect Fabrication ###
 
+As another form of life in the environment I added some fireflies and a dragonfly.  These were all based on the same LED wiring of the mushrooms, with a transistor and resistor in each circuit.
 
+I chose to use yellow LEDs for the fireflies and as I wanted them to gently flucuate I chose to put the three on to two different timed circuits.  After placing the mushrooms I used the fireflies to "fill in the gaps" and I cut the wires to the appropriate lengths and soldered them to the LEDs.  As I wanted one of the fireflies to be flying I used a piece of floral stem wire (which I tested and found it was conductive) as the positive wire for the LED, this enabled me to wind the negative wire around the supporting wire to keep it neat. I made a loop of the stem wire at the base for it to stand on, which I secured with electrical tape, then souldered a normal wire to the end to take it back to the microbit.
 
+![Image](rockstuff.JPG)
+
+Next I mouled the bodies for the fireflies using polymer clay (which sets in the oven) that I then painted black.  To attach these I bent the LED to make it a right angle to the legs then using a small amount of silicone attached the boies to the base of the LED.  For the wings I used the thin plastic windows from envelopes and cut out small wings which were also attached with silicone.
+
+The Dragonfly was made using a similar method however this time I chose a blue LED and moulded a long tail with clear silicone around the LED so the light would travel down the tail to light it up.  I made the head and wings using the same method as the fireflies.  As I didnt want the dragonfly to fluctuate I soldered it the one of the mushroom circuits (see image below).
+
+![Image](bugs.JPG)
 
 
 ## Final code ##
