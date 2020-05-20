@@ -312,6 +312,33 @@ To connect the strip to the Microbit, I had to cut off the crocodile clips (whic
 
 ### Mouse Fabrication ###
 
+As I was lucky enough to find a hollow log, I thought it would be cute to add in a small mouse that pokes it's nose out of the hole as part of the display.  As preiviously stated, I used toilet roll cylinders to both keep the mushroom wiring out of the way and also make a smooth path that the mouse wouldnt get caught on.  To make the mouse I made a simple cone shape out of a semi-circle of felt. Adding simple eyes, ears and nose, with a small loop on the back to attach to the servo motor using another piece of the florist wire.  The servo motor was mounted on a empty matchbox at the back of the log with the wire attached via a tiny screw to the outer most hole on the arm of the motor. 
+
+![Image](mousiemoo.JPG)
+
+The code for this was fairly simple and does a simple 180 degrees turn to pull and push the mouse in reaction to the movement.  The wires were connected to the corresponding places on the breakout board using jumper wires however I had to cut off the plug of the 3v wire as it needed to be soldered to the holes on the board as there were no more avalable pins.
+
+### PIR Motion Sensor ###
+
+For the motion sensor I decided to place it on the top of the tall log however because of the height the wires needed to be extended so they could reach the Microbit via the female jumper wires.  To do this I cut the plugs off one side of two sets of jumper wires and soldered a small length of wire between them both. I was then able to plug it into the pins on the Microbit.
+The below photos show the complete wiring and setup of the project.
+
+![Image](notpretty.JPG)
+![Image](notprettybehind.JPG)
+
+### Test ###
+
+While I was constantly testing the connections during the process of getting to this point with everthing together the project was now flashing and the motion sensor was not functioning correctly (see below video).
+
+https://youtu.be/OZ5i3TxsbwY
+
+
+
+
+
+
+
+
 
 
 ## Final code ##
