@@ -284,15 +284,34 @@ Finally I tested all the mushrooms joined in place.
 
 As another form of life in the environment I added some fireflies and a dragonfly.  These were all based on the same LED wiring of the mushrooms, with a transistor and resistor in each circuit.
 
+#### Fireflies ####
+
 I chose to use yellow LEDs for the fireflies and as I wanted them to gently flucuate I chose to put the three on to two different timed circuits.  After placing the mushrooms I used the fireflies to "fill in the gaps" and I cut the wires to the appropriate lengths and soldered them to the LEDs.  As I wanted one of the fireflies to be flying I used a piece of floral stem wire (which I tested and found it was conductive) as the positive wire for the LED, this enabled me to wind the negative wire around the supporting wire to keep it neat. I made a loop of the stem wire at the base for it to stand on, which I secured with electrical tape, then souldered a normal wire to the end to take it back to the microbit.
 
 ![Image](rockstuff.JPG)
 
 Next I mouled the bodies for the fireflies using polymer clay (which sets in the oven) that I then painted black.  To attach these I bent the LED to make it a right angle to the legs then using a small amount of silicone attached the boies to the base of the LED.  For the wings I used the thin plastic windows from envelopes and cut out small wings which were also attached with silicone.
 
+#### Dragonfly ####
+
 The Dragonfly was made using a similar method however this time I chose a blue LED and moulded a long tail with clear silicone around the LED so the light would travel down the tail to light it up.  I made the head and wings using the same method as the fireflies.  As I didnt want the dragonfly to fluctuate I soldered it the one of the mushroom circuits (see image below).
 
 ![Image](bugs.JPG)
+
+### Water Fabrication ###
+
+The water effect was made using a Neopixel LED strip (50cm - 30 RGB LEDs).  I secured the Led strip to the channel in the fake rock using silicone.  To support the LED strip in the curved shape for the pond I used a small strip of cardboard which I taped to the base board.  I also added a circle of aluminium foil which I crumpled up a bit to help reflect the light to fill up the surface of the water. 
+
+![Image](waterstuff.JPG)
+
+For the surface of the water I used silicone on a piece of baking paper which I spread then molded to create flowing and rippling textures.  This didnt come off the paper as easily as I had hoped, but I was able to get enough off that it is unnoticable.  I found however that the left over paper also helps to diffuse the light more.  All that was left to do was trim away any bits that were too wide then the silicone was able to just sit in place over the LED strip.
+
+![Image](siliconewater.JPG)
+
+To connect the strip to the Microbit, I had to cut off the crocodile clips (which came as part of the strip) to solder them to a longer wire then to the female jumper wires which connected it to the coresponding Pins on the Microbit. 
+
+### Mouse Fabrication ###
+
 
 
 ## Final code ##
