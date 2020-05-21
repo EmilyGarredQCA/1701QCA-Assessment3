@@ -144,15 +144,38 @@ To create a small glowing environment to be used as a decorative or practical an
 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+
+### Design concept 1 ###
+
+Design concept 1 is both a decorative and practical light that uses a distance sensor to activate the system of  glowing and moving  plant life.  The distance sensors would make different parts of the environment come on and get brighter as someone walks closer to it then slowly turn off as they get further away.  With the addition of a fan to make the plants move around like there was wind.  This could be both a novelty item or used as a night light to make a practical safety light in the dark.
+
+![Image](SLDesign1.jpg)
+
+While experimenting with this idea I found the distance sensor was difficult to work with, however after a bit of reseach and trial and error I found that the sensor needed more power. After adding an additional battery pack I got it to work with the LEDs and fan coming on at different times.
+
+
+### Design concept 2 ###
+
+The second concept is an extention of the initial idea with the potential to expand it into a large scale installation of a living environment that comes on and off with varying degrees of brightness when someone passes through it.  This would include glowing plant life, flowing water (using LED strips), immersive forest sounds, insects like fireflies and a fan to create movement and add to the realism.  Within the given time and scope of this project, the resulting experimental model could only be a small section of the overall concept.
+
+![Image](SLDesign2.jpg)
+
+I found basic instructions on how to make different effects with the Neo Pixel strips and had to do alot of testing to make it look like flowing water rather than just flashing lights.
+
+
+
+
+
+
 ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
-The final design concept is a small "living" environment consisting of the same glowing plant life, water, fireflies and fan.  This time however, using a PIR motion detector instead of a distance sensor, thereby making  a more realistic interaction between the person and environment.  By having the environment come to life when it senses no movement would replicate the real world wildlife where by, when movement is sensed the elements of the display "go into hiding".  By using the Microbit and the PIR Sensor, I would program the various elements of the display to come on (out of hiding) at different time intervals after no movement was detected, and go off again (into hiding) when there was movement.  
+The final design concept is a small "living" environment consisting of the same glowing plant life, water, fireflies and servo motor.  This time however, using a PIR motion detector instead of a distance sensor, thereby making  a more realistic interaction between the person and environment.  By having the environment come to life when it senses no movement would replicate the real world wildlife where by, when movement is sensed the elements of the display "go into hiding".  By using the Microbit and the PIR Sensor, I would program the various elements of the display to come on (out of hiding) at different time intervals after no movement was detected, and go off again (into hiding) when there was movement.  
 
 ![Image](SLFinalDesign.jpg)
 
-To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fireflies, would be mounted using a yellow led decorated with celophane wings.
+To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fireflies, would be mounted using a yellow led decorated with celophane wings.  To inhabit the hollow log I will place a small animal attached to the arm of a servo motor which will poke in and out of the log.
 
 
 
@@ -272,7 +295,7 @@ Using the circuitry from the fan experiment (Inventors kit experiment 4, under "
 From the resistor I added a small length of wire cut from a female jumper wire, which enabled me to plug this into the pins on the microbit breakout board. The other leg was attached to a short length of wire which was soldered to the ground position on the edge connector.  
 The positive wires were attached directly to the edge connetor on the 3V section of the bearkout board.  
 
-!!!!!drawing!!!!!
+![Image](drawing.JPG)
 
 ![Image](mushtransistorbit.JPG)
 
@@ -335,11 +358,32 @@ https://youtu.be/OZ5i3TxsbwY
 [![Image](coverimage.JPG)](https://youtu.be/8kADOvj2VpM)
 
 
+After looking at possible causes and solutions online I consulted my instructor for advice.  He suggested adding addiional battery power to the motion sensor, LED strip and servo motor.  I decided to add two additional battery packs, one for the PIR motion detector (as everything  relied on that to work properly) and one for both the LED strip and servo motor.  The two AAA batery packs tht I purhcased didnt have a switch, so I installed a simple button switch so I didn't need to remove the batteries every time I wanted to turn it off.  
+![Image](batteryswitch.JPG)
 
+After implementing these the motion detector was working reliably as were the other two components.  However the mushrooms were still flashing.  While trying to work out the problem, I had a transisor leg break off. I wondered if there could be a problem with the connection from the LEDs through the transistors to the Microbit.  So to be sure cut them all off and redid the connections with new trastistors and wiring.
 
+![Image](broken.JPG)
 
+To keep the legs from beaking again I insulated the connections then taped them together to stop them from bending and breaking again.  I also used longer wires from the transistor to the Microbut to allow for more maneuverability 
 
+![Image](fix.JPG)
 
+After rewiring each section I tested the connections and everything seemed fine however once they were hooked up to the microbit the mushrooms were still flashing.  I then went back to the code and tried the mushrooms on every other avaliable pin and the problems persited, as the mushrooms were origionaly designed to fade on and off I changed to code to be just on then off.  This worked but they were extremely bright compared to the other elements, so I changed to code to be half brightness, unfortunately they began flashing again. After more trial and error I decided to leave the mushrooms at full brightness and adjust the code so the different elements came on in succession.
+
+Finaly I had a system that was working.
+
+of it working
+VIDEO???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+
+### Decorations ###
+
+With all the mushrooms working I siliconed the dome tops in place and for the ones on the tree I also siliconed the domes to the tree as they were too heavy.  
+Next I used some fake vines and hot glued them to the tree and a bit growing around the sides.  I also cut some grass from some paper which was painted green and finally, added some fake moss and small rocks from the garden around the edges and to fill in any gaps in the scene.
+
+![Image](decoration1.JPG)
+
+![Image](decoration2.JPG)
 
 ## Final code ##
 
