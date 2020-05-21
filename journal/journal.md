@@ -372,6 +372,8 @@ Next I used some fake vines and hot glued them to the tree and a bit growing aro
 
 ![Image](decoration2.JPG)
 
+The below video shows the final decorated project working correctly.
+
 [![Image](coverimage.JPG)](https://youtu.be/8kADOvj2VpM)
 
 
