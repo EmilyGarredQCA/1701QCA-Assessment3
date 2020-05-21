@@ -134,8 +134,6 @@ https://www.youtube.com/watch?v=Zu3TYBs65FM
 This was a very useful video in the basics of soldering.  I learnt how to strip the wires, different ways to join them, the best way to solder by putting the heat from the bottom and the solder from the top.  The video also suggested using a damp sponge to clean the tip of the soldering iron and using heat shrink to protect the soldered wires from coming in contact with each other which would cause issues. It also recommended using clips to help hold the wires in place while solering, to stop them moving and protect fingers from the hot iron.
 
 
-
-
 ## Conceptual development ##
 
 ### Design intent ###
@@ -145,7 +143,7 @@ To create a small glowing environment to be used as a decorative or practical an
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
 
-### Design concept 1 ###
+#### Design concept 1 ####
 
 Design concept 1 is both a decorative and practical light that uses a distance sensor to activate the system of  glowing and moving  plant life.  The distance sensors would make different parts of the environment come on and get brighter as someone walks closer to it then slowly turn off as they get further away.  With the addition of a fan to make the plants move around like there was wind.  This could be both a novelty item or used as a night light to make a practical safety light in the dark.
 
@@ -154,7 +152,7 @@ Design concept 1 is both a decorative and practical light that uses a distance s
 While experimenting with this idea I found the distance sensor was difficult to work with, however after a bit of reseach and trial and error I found that the sensor needed more power. After adding an additional battery pack I got it to work with the LEDs and fan coming on at different times.
 
 
-### Design concept 2 ###
+#### Design concept 2 ####
 
 The second concept is an extention of the initial idea with the potential to expand it into a large scale installation of a living environment that comes on and off with varying degrees of brightness when someone passes through it.  This would include glowing plant life, flowing water (using LED strips), immersive forest sounds, insects like fireflies and a fan to create movement and add to the realism.  Within the given time and scope of this project, the resulting experimental model could only be a small section of the overall concept.
 
@@ -162,12 +160,6 @@ The second concept is an extention of the initial idea with the potential to exp
 
 I found basic instructions on how to make different effects with the Neo Pixel strips and had to do alot of testing to make it look like flowing water rather than just flashing lights.
 
-
-
-
-
-
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
@@ -178,18 +170,10 @@ The final design concept is a small "living" environment consisting of the same 
 To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fireflies, would be mounted using a yellow led decorated with celophane wings.  To inhabit the hollow log I will place a small animal attached to the arm of a servo motor which will poke in and out of the log.
 
 
-
-
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
 ![Image](SLFlowChart.jpg)
-
-
-
-
-
-
 
 
 ## Process documentation ##
@@ -200,10 +184,6 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this code. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
-
-
-
-
 
 
 ### Initial Coding ###
