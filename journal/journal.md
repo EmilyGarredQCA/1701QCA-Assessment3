@@ -372,7 +372,7 @@ Next I used some fake vines and hot glued them to the tree and a bit growing aro
 
 ![Image](decoration2.JPG)
 
-[![Image](finalcover.jpg)](https://youtu.be/8kADOvj2VpM)
+[![Image](coverimage.jpg)](https://youtu.be/8kADOvj2VpM)
 
 
 ## Final code ##
