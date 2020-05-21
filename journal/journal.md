@@ -339,7 +339,7 @@ https://youtu.be/OZ5i3TxsbwY
 
 
 After looking at possible causes and solutions online I consulted my instructor for advice.  He suggested adding addiional battery power to the motion sensor, LED strip and servo motor.  I decided to add two additional battery packs, one for the PIR motion detector (as everything  relied on that to work properly) and one for both the LED strip and servo motor.  The two AAA batery packs tht I purhcased didnt have a switch, so I installed a simple button switch so I didn't need to remove the batteries every time I wanted to turn it off.  
-![Image](batteryswitch.JPG)
+![Image](batteryswitch.jpg)
 
 After implementing these the motion detector was working reliably as were the other two components.  However the mushrooms were still flashing.  While trying to work out the problem, I had a transisor leg break off. I wondered if there could be a problem with the connection from the LEDs through the transistors to the Microbit.  So to be sure cut them all off and redid the connections with new trastistors and wiring.
 
