@@ -192,7 +192,7 @@ For this project I began with the programing for the NeoPixel LED strip.  After 
 
 The below video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
 
-https://youtu.be/3tmFgTovflc
+[![Image](watercover.jgp)](https://youtu.be/3tmFgTovflc)
 
 This is the code used to get this effect by changing the colour of every second LED gave the moving effect.  I found it was possible to change the number of LEDs that moved or to even put a gap in between them to produce various outcomes.
 
@@ -202,7 +202,7 @@ The next step I took was to connect the motion sensor to the lights and adjust t
 
 The below code and video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with continued absence of motion.
 
-https://www.youtube.com/watch?v=BiCQOx9Rjhs
+[![Image](workingsensorcover.jgp)](https://www.youtube.com/watch?v=BiCQOx9Rjhs)
 
 ![Image](SLWorkingCode.JPG)
 
@@ -239,6 +239,7 @@ With all the stems soldered, I needed to work out how I would attach the mushroo
 
 ![Image](heatmushsupport.JPG)
 
+
 #### Creating Mushrooms ####
 
 Before I could put the wiring in place on the logs, I needed to create the mushroom stems around their wires.
@@ -257,6 +258,7 @@ WIth the mushrooms made I checked how the mushroom tops would sit over the suppo
 Finally with all the stems made, I was able to attach the stems to the logs, where they would be mounted for my scene.  I worked out the thickness of the stem and chose a drill bit of similar size, before drilling holes in the logs, at the desired positions.  With the holes done, I threaded the wires through the log (adding masking tape to each pair to avoid getting the wires mixed up).  I also inserted cylinders from toilet rolls into the hollow log, to keep the wires neat and make space through the centre.  
 
 ![Image](mushy.JPG)
+
 
 #### Connecting Circuits ####
 
@@ -283,9 +285,11 @@ Finally I tested all the mushrooms joined in place.
 
 ![Image](testmush.JPG)
 
+
 ### Insect Fabrication ###
 
 As another form of life in the environment I added some fireflies and a dragonfly.  These were all based on the same LED wiring of the mushrooms, with a transistor and resistor in each circuit.
+
 
 #### Fireflies ####
 
@@ -295,11 +299,13 @@ I chose to use yellow LEDs for the fireflies and as I wanted them to gently fluc
 
 Next I mouled the bodies for the fireflies using polymer clay (which sets in the oven) that I then painted black.  To attach these I bent the LED to make it a right angle to the legs then using a small amount of silicone attached the boies to the base of the LED.  For the wings I used the thin plastic windows from envelopes and cut out small wings which were also attached with silicone.
 
+
 #### Dragonfly ####
 
 The Dragonfly was made using a similar method however this time I chose a blue LED and moulded a long tail with clear silicone around the LED so the light would travel down the tail to light it up.  I made the head and wings using the same method as the fireflies.  As I didnt want the dragonfly to fluctuate I soldered it the one of the mushroom circuits (see image below).
 
 ![Image](bugs.JPG)
+
 
 ### Water Fabrication ###
 
@@ -313,6 +319,7 @@ For the surface of the water I used silicone on a piece of baking paper which I 
 
 To connect the strip to the Microbit, I had to cut off the crocodile clips (which came as part of the strip) to solder them to a longer wire then to the female jumper wires which connected it to the coresponding Pins on the Microbit. 
 
+
 ### Mouse Fabrication ###
 
 As I was lucky enough to find a hollow log, I thought it would be cute to add in a small mouse that pokes it's nose out of the hole as part of the display.  As preiviously stated, I used toilet roll cylinders to both keep the mushroom wiring out of the way and also make a smooth path that the mouse wouldnt get caught on.  To make the mouse I made a simple cone shape out of a semi-circle of felt. Adding simple eyes, ears and nose, with a small loop on the back to attach to the servo motor using another piece of the florist wire.  The servo motor was mounted on a empty matchbox at the back of the log with the wire attached via a tiny screw to the outer most hole on the arm of the motor. 
@@ -320,6 +327,7 @@ As I was lucky enough to find a hollow log, I thought it would be cute to add in
 ![Image](mousiemoo.JPG)
 
 The code for this was fairly simple and does a simple 180 degrees turn to pull and push the mouse in reaction to the movement.  The wires were connected to the corresponding places on the breakout board using jumper wires however I had to cut off the plug of the 3v wire as it needed to be soldered to the holes on the board as there were no more avalable pins.
+
 
 ### PIR Motion Sensor ###
 
@@ -329,14 +337,12 @@ The below photos show the complete wiring and setup of the project.
 ![Image](notpretty.JPG)
 ![Image](notprettybehind.JPG)
 
+
 ### Test ###
 
 While I was constantly testing the connections during the process of getting to this point with everthing together the project was now flashing and the motion sensor was not functioning correctly (see below video).
 
-https://youtu.be/OZ5i3TxsbwY
-
-[![Image](coverimage.JPG)](https://youtu.be/8kADOvj2VpM)
-
+[![Image](flashycover.jpg)](https://youtu.be/OZ5i3TxsbwY)
 
 After looking at possible causes and solutions online I consulted my instructor for advice.  He suggested adding addiional battery power to the motion sensor, LED strip and servo motor.  I decided to add two additional battery packs, one for the PIR motion detector (as everything  relied on that to work properly) and one for both the LED strip and servo motor.  The two AAA batery packs tht I purhcased didnt have a switch, so I installed a simple button switch so I didn't need to remove the batteries every time I wanted to turn it off.  
 ![Image](batteryswitch.jpg)
@@ -353,8 +359,8 @@ After rewiring each section I tested the connections and everything seemed fine 
 
 Finaly I had a system that was working.
 
-of it working
-VIDEO???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+[![Image](workingcover.jgp)](https://youtu.be/LzFQ-M5mdDM)
+
 
 ### Decorations ###
 
@@ -364,6 +370,7 @@ Next I used some fake vines and hot glued them to the tree and a bit growing aro
 ![Image](decoration1.JPG)
 
 ![Image](decoration2.JPG)
+
 
 ## Final code ##
 
