@@ -376,6 +376,11 @@ Next I used some fake vines and hot glued them to the tree and a bit growing aro
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
+![Image](othercode.JPG)
+
+![Image](fearfleacode.JPG)
+
+![Image](ledstripcode.JPG)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
