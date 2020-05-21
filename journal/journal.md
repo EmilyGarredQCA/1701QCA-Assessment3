@@ -277,7 +277,7 @@ Using the circuitry from the fan experiment (Inventors kit experiment 4, under "
 From the resistor I added a small length of wire cut from a female jumper wire, which enabled me to plug this into the pins on the microbit breakout board. The other leg was attached to a short length of wire which was soldered to the ground position on the edge connector.  
 The positive wires were attached directly to the edge connetor on the 3V section of the bearkout board.  
 
-????????????????????????????????????????????????????????????
+![Image](drawing.JPG)
 
 ![Image](mushtransistorbit.JPG)
 
