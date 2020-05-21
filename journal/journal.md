@@ -192,7 +192,7 @@ For this project I began with the programing for the NeoPixel LED strip.  After 
 
 The below video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
 
-[![Image](watercover.jgp)](https://youtu.be/3tmFgTovflc)
+[![Image](watercover.jpg)](https://youtu.be/3tmFgTovflc)
 
 This is the code used to get this effect by changing the colour of every second LED gave the moving effect.  I found it was possible to change the number of LEDs that moved or to even put a gap in between them to produce various outcomes.
 
@@ -202,7 +202,7 @@ The next step I took was to connect the motion sensor to the lights and adjust t
 
 The below code and video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with continued absence of motion.
 
-[![Image](workingsensorcover.jgp)](https://www.youtube.com/watch?v=BiCQOx9Rjhs)
+[![Image](workingsensorcover.jpg)](https://www.youtube.com/watch?v=BiCQOx9Rjhs)
 
 ![Image](SLWorkingCode.JPG)
 
@@ -359,7 +359,7 @@ After rewiring each section I tested the connections and everything seemed fine 
 
 Finaly I had a system that was working.
 
-[![Image](workingcover.jgp)](https://youtu.be/LzFQ-M5mdDM)
+[![Image](workingcover.jpg)](https://youtu.be/LzFQ-M5mdDM)
 
 
 ### Decorations ###
