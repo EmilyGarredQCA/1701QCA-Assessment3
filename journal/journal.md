@@ -345,7 +345,7 @@ After implementing these the motion detector was working reliably as were the ot
 
 ![Image](broken.JPG)
 
-To keep the legs from beaking again I insulated the connections then taped them together to stop them from bending and breaking again.  I also used longer wires from the transistor to the Microbut to allow for more maneuverability 
+To keep the legs from beaking again I insulated the connections then taped them together to stop them from bending and breaking.  I also used longer wires from the transistor to the Microbut to allow for more maneuverability 
 
 ![Image](fix.JPG)
 
